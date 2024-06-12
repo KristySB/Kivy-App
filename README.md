@@ -25,14 +25,13 @@ Converting python to android on Windows
 
 ## Repository contains
 
-3 python files: 
 - main.py - runs the main program
 - add_widgets.py - adds the widgets to the app
 - change_screens.py - adjusts the screens look
-1 buildozer file:
+
 - buildozer.spec - with adjusted requirements to work fine with the versions of python, kivy and kivyMD I used
-1 text file:
+
 - bibbia.txt - contains the Bible text
-2 jpg files:
+
 - book.jpg
 - paper5.jpg
