@@ -185,3 +185,4 @@ class Screens:
         # ADD BACK ICON
         back_icon = add_back_icon(func)
         toolbar.add_widget(back_icon)
+print('ahoj')
